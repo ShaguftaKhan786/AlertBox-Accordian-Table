@@ -1,0 +1,135 @@
+
+
+
+#customerAlert{
+    display: none;
+   
+}
+#box{
+    border-radius: 5px;
+margin-left: 300px;
+height: 150px;
+width: 484px;
+box-shadow: 2px 2px 8px black;
+background-color: red;
+}
+#btn{
+    background-color: red;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.heading{
+    background-color: red;
+    color: aliceblue;
+    font-size: 20px;
+
+}
+.content{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.line{
+    background-color: red;
+}
+#confirm{
+    height: 25px;
+    width: 174px;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+    box-shadow: 2px 2px 8px black;
+}
+#confirm1{
+    height: 150px;
+    width: 50px;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+    /* margin-top: 20px; */
+    box-shadow: 2px 2px 8px black;
+}
+#confirm2{
+    height: 50px;
+    width: 50px;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+    /* margin-top: 20px; */
+    box-shadow: 2px 2px 8px black;
+}
+.div_main{
+    height: 25px;
+    width: 174px;
+    display: flex;
+    /* position: relative; */
+}
+.div_main .cross{
+    height: 25px;
+    width: 15px;
+    /* position: absolute; */
+}
+
+/* <!-- ............alert closed............ --> */
+
+
+.conatainer{
+    padding: 200px;
+}
+.accordian h2{
+    height: 60px;
+    /* width: 80%; */
+    background-color: red;
+    color: rgb(244, 194, 194);
+    margin: 0px;
+    margin-top: 1px;
+
+}
+p{                      
+    height: 60px;
+    /* width: 80%; */
+    background-color: rgb(244, 194, 194);
+margin-top: -20px;
+}
+#demo2{
+    display: none;
+}
+
+#demo3{
+    display: none;
+}
+
+#demo4{
+    display: none;
+}
+ 
+
+/* <!-- ..........ACCORDIAN CLOSED............. --> */
+
+table{
+    margin-top: 60px;
+    background-color: red;
+    width: 98vw;
+    height: 200px;
+    color: white;
+}
+
+.btn11{
+    background-color: black;
+    color: white;
+    padding: 4px 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
